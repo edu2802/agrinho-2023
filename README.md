@@ -1,7 +1,7 @@
 ## 🚀 Começando
 
 <h1 align="center"> # Agrinho-2023 </h1>
-projeto criado para participar do agrinho 2023
+Projeto criado para participar do agrinho 2023
 
 Me chamo Eduardo Miguel, sou um dos alunos do Colégio Estadual Alfredo Moisés Maluf. 
 Estou cursando o segundo ano do ensino médio. Eu descobri o agrinho pelo meu professor de programação, então resolvi  participar.
