@@ -13,6 +13,5 @@ com uma navbar e footer que se adpatam a diferente tipos de aparelos.
 
 
 link projeto = git@github.com:edu2802/agrinho-2023.git
-
 link projeto no netlify = https://agrinho-2023.netlify.app/
     
